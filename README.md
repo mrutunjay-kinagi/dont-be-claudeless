@@ -24,6 +24,9 @@ Instead of "vibe checking" your agent's current state, `dont-be-claudeless` prov
 
 ## 👀 Visual Preview
 
+<img width="1093" height="276" alt="dont-be-claudeless" src="https://github.com/user-attachments/assets/f8837c7b-12e2-4900-9303-539fb2ad926e" />
+
+
 ### 🟢 Normal View (Under 50% Context Window)
 `[CLAUDE-3-5-SONNET | my-project] [CTX: ████░░░░░░ 42.5k] [$1.24] [RATE: 12%] [SMART]`
 
